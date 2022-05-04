@@ -1,0 +1,2 @@
+Key.ctrl_lKey.alt_lKey.deleteexit
+Key.ctrl_l\x03

@@ -1,0 +1,2 @@
+-icon talbaKey.backspaceKey.backspaceKey.backspacebla.ico
+Key.ctrl_l\x03Key.ctrl_l\x03Key.ctrl_l\x03
